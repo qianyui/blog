@@ -1,0 +1,4 @@
+baseURL = 'https://diudiu.site/'
+languageCode = 'zh-cn'
+title =  "diudiu's site"
+theme = 'ananke'
